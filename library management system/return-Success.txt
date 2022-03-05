@@ -1,0 +1,8 @@
+ Royal library 
+ Returned By: Success
+ Date: 2021-09-09    Time:11:33:54.514079
+
+S.N.		Bookname		Cost
+3		Fear Of Flying		$1
+					Fine: $6
+					Total: $7.0
